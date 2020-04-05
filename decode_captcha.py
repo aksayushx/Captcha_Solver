@@ -25,7 +25,7 @@ def predict(image):
     
 def test():
     #Enter filenames to be tested in image_paths after adding them to this folder
-    image_paths=['5.jpeg','6.jpeg']
+    image_paths=['Sample_captchas/567.jpeg']
     for i in image_paths:
         image=cv2.imread(i)
         captcha_decoded=predict(image)
