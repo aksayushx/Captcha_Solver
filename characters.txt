@@ -1,0 +1,4 @@
+The characters that we have trained our model on are as follows:-
+0 1 2 3 4 5 6 7 8 9
+A B C D E F G H J K M N P Q R T U V W X Y 
+b e h
