@@ -1,5 +1,5 @@
 # Captcha Solver
-This Captcha Solver is made using the deep learning and computer vision libraries of python.The model has been trained on Google Colab using the dataset provided by [emnist](https://www.kaggle.com/crawford/emnist). The dataset has been modified to remove some similar looking characters like O and 0. The model has been able to acheive a validation accuracy of upto 99% and a test accuracy of 92%.
+This Captcha Solver is made using the deep learning and computer vision libraries of python.The model has been trained on Google Colab using the handwritten characters dataset provided by [emnist](https://www.kaggle.com/crawford/emnist). The dataset has been modified to remove some similar looking characters like O and 0. The model has been able to acheive a validation accuracy of upto 99% and a test accuracy of 92%.
 ## Character Set
 The character set on which the model has been trained is available in the `characters.txt` file.
 ## Features of the model
