@@ -5,7 +5,7 @@ The character set on which the model has been trained is available in the `chara
 ## Features of the model
 The special features of the model includes:
 1. Decoding captchas with lots of noise in the form of lines and circular dots
-2. Decoding captchas with characters rotated by 45 deegrees
+2. Decoding captchas with characters rotated by upto 45 deegrees
 3. Decoding a diverse range of captchas ranging from very simple ones having only 2 or 3 characters to complex ones having characters of variable thichness and size
 
 A few sample captchas has been provided in the Sample_captchas folder.
